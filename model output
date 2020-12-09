@@ -1,0 +1,19 @@
+1. LinearRegression:
+    Mean:  0.23364255300348277
+    Standard divation:  0.023549414866959655
+
+2. Support Veactor Machine:
+    Mean:  0.16329931618554522
+    Standard divation:  0.15275252316519466
+
+3. DecisionTreeClassifier:
+    Mean:  0.19318516525781368
+    Standard divation:  0.11260325006104942
+
+4. RandomForestClassifier:
+    Mean:  0.19318516525781368
+    Standard divation:  0.11260325006104943
+
+5. LogisticRegression:
+    Mean:  0.15236033621142736
+    Standard divation:  0.13584179995939205
